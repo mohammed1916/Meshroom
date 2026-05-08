@@ -61,3 +61,4 @@ __pycache__
 install/qml/AliceVision/qmldir
 
 run.bat
+aliceVision

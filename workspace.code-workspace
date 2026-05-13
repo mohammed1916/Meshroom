@@ -6,5 +6,9 @@
         {
             "path": "C:\\Users\\BBBS-AI-01\\d\\AliceVision"
         }
-    ]
+    ],
+    "settings": {
+        "powershell.cwd": "Meshroom"
+        // "powershell.cwd": "AliceVision"
+    }
 }
